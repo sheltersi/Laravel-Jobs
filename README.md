@@ -1,6 +1,8 @@
 <h1>Its a web Application</h1>
-<p>Recruiters will be able to post jobs on this web app and users will search for the jobs either by job name, title or by company name And then they will be able to apply.</p>
-<p>The project is built using Laravel Framework for the backend and blade with tailwindCSS for the frontend. <i><b>Laravel framework is a php framework. TailwindCSS is a CSS framework.</b></i></p>
+<p>Recruiters can post jobs on this web app, and users can search for jobs by job title or company name. Users can then apply for the jobs they find.
+
+The project is built using the Laravel framework for the backend and Blade with Tailwind CSS for the frontend. Laravel is a PHP framework, and Tailwind CSS is a utility-first CSS framework.</p>
+
 <h3>Home Page</h3>
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/6cf62d79-d2dc-43dd-af58-e113ac9128d5" />
 
