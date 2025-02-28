@@ -6,3 +6,6 @@
 
 <h3>Search Page</h3>
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/060de799-cc8b-49ed-ab0a-223dea84ff6d" />
+
+<h3>Create Job Page</h3>
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/54ee075d-bcb1-4f01-9ed8-03333dc23ddb" />
